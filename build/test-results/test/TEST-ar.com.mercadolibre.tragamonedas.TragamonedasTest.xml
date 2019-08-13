@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ar.com.mercadolibre.tragamonedas.TragamonedasTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-08-12T19:59:09" hostname="AR0FVFYM0ZCHV2J" time="0.024">
+  <properties/>
+  <testcase name="entregarPremio" classname="ar.com.mercadolibre.tragamonedas.TragamonedasTest" time="0.024"/>
+  <system-out><![CDATA[7
+8
+4
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
